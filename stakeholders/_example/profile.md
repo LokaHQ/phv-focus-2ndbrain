@@ -1,6 +1,6 @@
 # Stakeholder Name — Profile
 
-**Company**: {{CLIENT_NAME}}
+**Company**: Pacific Health Ventures
 **Role**: Their title
 **Involvement**: When and how they're involved in the engagement
 

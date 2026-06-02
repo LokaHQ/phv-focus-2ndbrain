@@ -296,7 +296,7 @@ generated_by: /bootstrap
 sows_processed: [list]
 ---
 
-# Project Context — {{CLIENT_NAME}}
+# Project Context — Pacific Health Ventures
 
 ## What this engagement is
 (1-2 sentences from SOW docs + meetings + Slack — what is Loka actually doing?)

@@ -1,0 +1,37 @@
+# SOW Configuration — sow5
+# Created by /onboard — edit directly to update.
+# This file is committed to the repo so the whole team shares it.
+
+# What type of engagement this SOW is (e.g. "GenAI Assessment", "POC", "Staff Augmentation")
+ENGAGEMENT_TYPE: "Implementation"
+
+# 1-2 sentences describing what Loka is building or delivering for this client under this SOW
+ENGAGEMENT_CONTEXT: "Loka is building an app for senior residents living in campuses leveraging AI for a recommendation engine"
+
+
+# Google Drive folder URL containing Gemini meeting notes for this SOW
+# Open the folder in Drive and paste the URL
+DRIVE_FOLDER: "https://drive.google.com/drive/folders/1jNMHi_HyO9rnCzuiawJEezzNTtmrnuxC?usp=drive_link"
+
+# Filename filter for meeting notes (optional but required when DRIVE_FOLDER is a shared folder
+# like My Drive > Meet Recordings rather than a SOW-specific folder).
+# Only files whose names contain this string will be processed.
+# Example: "ZenQMS", "ZenQMS SOW4", "CS " (note trailing space to avoid matching "CSS")
+MEETING_FILTER: ""
+
+# Direct URL to the SOW / Scope of Work document in Google Drive (optional)
+# If empty, /bootstrap will search DRIVE_FOLDER for files named "SOW", "Scope of Work", or "Implementation Proposal"
+SOW_DOC_URL: "https://docs.google.com/document/d/1EYp0LSNRnP3Yc8cbfZPsXAVbIXCd9zb-GiivWuNuZY0/edit?tab=t.0"
+
+# Slack channel(s) for this SOW — comma-separated, include the # prefix
+# Example: "#client-sow7-general, #client-sow7-dev"
+SLACK_CHANNELS: "#pacific-health-ventures-sow4-implementation, #loka-pacific-health-ventures, #external-loka-pacific-health-ventures"
+
+# (Optional) Comma-separated Gemini note doc URLs
+# Use when notes aren't all in one folder, or you want to point to specific docs directly
+GEMINI_NOTES_DOCS: ""
+
+# (Optional) Notion project page URL for this SOW
+# Used by /publish-to-notion (write) and /bootstrap (read)
+# Open the Notion page and paste the URL
+NOTION_PROJECT_URL: ""

@@ -1,4 +1,4 @@
-# {{CLIENT_NAME}} — Engagement Brain
+# Pacific Health Ventures — Engagement Brain
 
 ## Setup (read this first)
 
@@ -51,8 +51,8 @@ If they identify themselves, use that context throughout the session:
 
 ## About This Engagement
 
-**Client**: {{CLIENT_NAME}}
-**Engagement owner**: {{OWNER_NAME}} ({{OWNER_ROLE}})
+**Client**: Pacific Health Ventures
+**Engagement owner**: José Pereira (Tech Lead)
 
 ---
 

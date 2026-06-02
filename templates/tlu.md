@@ -1,6 +1,6 @@
 # TLU — Week of YYYY-MM-DD
 
-**Client**: {{CLIENT_NAME}}
+**Client**: Pacific Health Ventures
 **Status**: 🟢 Green | 🟡 Yellow | 🔴 Red
 **Prepared by**: [your name]
 
